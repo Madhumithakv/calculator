@@ -8,9 +8,13 @@ https://madhumithakv.github.io/calculator/
 Perform the following operations effortlessly:
 
 Addition (+)
+
 Subtraction (-)
+
 Multiplication (×)
+
 Division (÷)
+
 Features:
 User-friendly interface: Simple design for quick calculations.
 Real-time results: Get the output instantly as you input values.
