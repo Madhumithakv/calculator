@@ -1,6 +1,7 @@
 # calculator
 ✨ Simple Calculator App ✨
 A lightweight and responsive calculator built using HTML, CSS, and JavaScript – perfect for basic arithmetic operations!
+
 https://madhumithakv.github.io/calculator/
 
 
